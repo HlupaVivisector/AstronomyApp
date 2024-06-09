@@ -91,7 +91,7 @@ public class MainActivity extends AppCompatActivity {
             }
         }
         if (dataSearchList.isEmpty()) {
-            Toast.makeText(this, "Not Found", Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, "Не найдено", Toast.LENGTH_SHORT).show();
         } else {
             adapter.setSearchList(dataSearchList);
         }
