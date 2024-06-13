@@ -42,7 +42,7 @@
                         android:text="Title"
                         android:textSize="20sp"
                         android:maxLines="1"
-                        android:textColor="@color/Orange"
+                        android:textColor="@color/black"
                         android:id="@+id/recTitle"/>
                     <TextView
                         android:layout_width="match_parent"
